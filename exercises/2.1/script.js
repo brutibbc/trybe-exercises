@@ -1,4 +1,4 @@
-let student = "euMesmo";
-let studentSkills = 10;
+let student = "Bruti";
+let studentSkills = 23;
 
 console.log("Sucesso!");
