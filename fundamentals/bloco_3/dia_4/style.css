@@ -16,6 +16,9 @@ article{
     width: 70%;
 }
 
+section{
+    clear: left;
+}
 
 aside{
     display: inline-block;
