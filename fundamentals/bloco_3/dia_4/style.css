@@ -2,3 +2,27 @@ li {
     list-style-type: none;
     display: inline;
 }
+
+img{
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;    
+}
+
+
+article{
+    display:inline-block;
+    width: 70%;
+}
+
+
+aside{
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+footer{
+    text-align: center;
+}
