@@ -1,10 +1,6 @@
-let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
-let menor = numbers[0];
-
-for (let index = 0; index < numbers.length; index+=1) {
-    if (numbers[index]<menor) {
-        menor=numbers[index];
-    }
+// let numbers = [0];
+// for (let index = 0; index < 25; index+=1) {
+//     numbers[index] = index+1;
     
-}
-console.log(menor);
+// }
+console.log("Olá");
